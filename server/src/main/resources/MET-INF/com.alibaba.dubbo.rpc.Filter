@@ -1,0 +1,1 @@
+consumerInvokeFilter=com.dhchxb.server.filter.DubboInvokeFilter
